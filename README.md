@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ttoomas</h1>
 
 - 😎 A student at [:)](https://www.spsmb.cz/)
-- 💪 [Strava](https://www.strava.com/athletes/107215582)
+
 
 - 🔭 I’m currently working on [Dog sitter app](https://github.com/ttoomas/dog-sitter-app)
 
