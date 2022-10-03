@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm ttoomas</h1>
 
+![img](https://raw.githubusercontent.com/ttoomas/ttoomas/main/stackoverflow.jpg)
+
 - 😎 A student at [:)](https://www.spsmb.cz/)
 
 
