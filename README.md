@@ -3,7 +3,7 @@
 ## Hi👋
 
 I'm tomas, a student at [😎](https://www.spsmb.cz/)
-- I’m currently working on [Resources in one link]([https://github.com/ttoomas/guess-the-color-game](https://github.com/ttoomas/resources-in-one-link))
+- I’m currently working on [Resources in one link](https://github.com/ttoomas/resources-in-one-link)
 
 ## Skills 💪
 - 👁️ HTML, CSS
