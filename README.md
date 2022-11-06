@@ -3,7 +3,7 @@
 ## Hi👋
 
 I'm tomas, a student at [😎](https://www.spsmb.cz/)
-- I’m currently working on [Resources in one link](https://github.com/ttoomas/resources-in-one-link)
+- I’m currently working on [🍪Cookie Clicker Clone](https://github.com/ttoomas/cookie-clicker-clone)
 
 ## Skills 💪
 - 👁️ HTML, CSS
@@ -12,10 +12,11 @@ I'm tomas, a student at [😎](https://www.spsmb.cz/)
 - 🧗‍♂️ Git, Figma, Postman
 
 ## My best Projects 👨‍💻
-- [Resources in one link](https://github.com/ttoomas/resources-in-one-link)
+- [✅Resources in one link](https://github.com/ttoomas/resources-in-one-link)
 - [Guess the color game](https://github.com/ttoomas/guess-the-color-game)
-- [ToDo app](https://github.com/ttoomas/toDo-app)
+- [☑️ToDo app](https://github.com/ttoomas/toDo-app)
 - [QR Code website](https://github.com/ttoomas/QR-Code-Website)
+- [🍪Cookie Clicker Clone](https://github.com/ttoomas/cookie-clicker-clone)
 
 ## Learning 👀
 - 🐾 Java, Python
