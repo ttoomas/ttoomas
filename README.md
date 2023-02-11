@@ -3,7 +3,7 @@
 ## Hi👋
 
 I'm tomas, a student at [😎](https://www.spsmb.cz/)
-- I’m currently working on [🧙Brumbálov Game](https://github.com/ttoomas/brumbalov-game)
+- I’m currently working on [🧙Brumbálov Game](https://github.com/ttoomas/brumbalov-game) and [Whac-A-Mole Game](https://github.com/ttoomas/whac-a-mole-game)
 
 ## Skills 💪
 - 👁️ HTML, CSS
