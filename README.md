@@ -3,28 +3,31 @@
 ## Hi👋
 
 I'm tomas, a student at [😎](https://www.spsmb.cz/)
-- I’m currently working on [🧙Brumbálov Game](https://github.com/ttoomas/brumbalov-game) and [Whac-A-Mole Game](https://github.com/ttoomas/whac-a-mole-game)
+- I’m currently working on [Dobšín Web Concept (private for now so that no one borrows the code)](https://github.com/ttoomas/dobsin-web-concept)
 
 ## Skills 💪
 - 👁️ HTML, CSS
 - ⚙️ JavaScript, React, NodeJs, PHP
-- 📈 MySQL, MongoDB, FireBase
+- 📈 MySQL
 - 🧗‍♂️ Git, Figma, Postman
 
 ## My best Projects 👨‍💻
+- [🧙Brumbálov Game](https://github.com/ttoomas/brumbalov-game)
 - [✅Resources in one link](https://github.com/ttoomas/resources-in-one-link)
 - [🍪Cookie Clicker Clone](https://github.com/ttoomas/cookie-clicker-clone)
-- [Guess the color game](https://github.com/ttoomas/guess-the-color-game)
-- [☑️ToDo app](https://github.com/ttoomas/toDo-app)
-- [QR Code website](https://github.com/ttoomas/QR-Code-Website)
+- [⚔️Whac-A-Mole Viking Edition](https://github.com/ttoomas/whac-a-mole-vikings)
+- [🎨Guess the color game](https://github.com/ttoomas/guess-the-color-game)
+- [🧾QR Code website](https://github.com/ttoomas/QR-Code-Website)
 
 
 ## Learning 👀
 - 🐾 Java, Python
-- ✍️ SASS
+- ✍️ SASS,
+- 📈 MongoDB, FireBase
 - 3D Web - [three.js](https://threejs.org/)
 
 ## Contact
 
 - [Twitter](https://twitter.com/ttoomas_)
 - [ttoomas#9886](https://github.com/ttoomas) on Discord
+- [folprecht.to@gmail.com](mailto:folprecht.to@gmail.com) by Email
