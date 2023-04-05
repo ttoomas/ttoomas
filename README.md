@@ -3,7 +3,7 @@
 ## Hi👋
 
 I'm tomas, a student at [😎](https://www.spsmb.cz/)
-- I’m currently working on [Dobšín Web Concept (private for now so that no one borrows the code)](https://github.com/ttoomas/dobsin-web-concept)
+- I’m currently working on [Dobšín Web Concept](https://github.com/ttoomas/dobsin-web-concept) and [BattleShip Game 🚢](https://github.com/ttoomas/battleship-game)
 
 ## Skills 💪
 - 👁️ HTML, CSS
