@@ -7,28 +7,30 @@ I'm tomas, a student at [😎](https://www.spsmb.cz/)
 
 ## Skills 💪
 - 👁️ HTML, CSS
-- ⚙️ JavaScript, React, NodeJs, PHP
+- ⚙️ JavaScript, React 
+- 📉 NodeJs, PHP
 - 📈 MySQL
-- 🧗‍♂️ Git, Figma, Postman
+- 🧗‍♂️ Git
 
 ## My best Projects 👨‍💻
-- [🧙Brumbálov Game](https://github.com/ttoomas/brumbalov-game)
-- [🚢BattleShip Game](https://github.com/ttoomas/battleship-game)
-- [✅Resources in one link](https://github.com/ttoomas/resources-in-one-link)
-- [🍪Cookie Clicker Clone](https://github.com/ttoomas/cookie-clicker-clone)
-- [⚔️Whac-A-Mole Viking Edition](https://github.com/ttoomas/whac-a-mole-vikings)
-- [🎨Guess the color game](https://github.com/ttoomas/guess-the-color-game)
-- [🧾QR Code website](https://github.com/ttoomas/QR-Code-Website)
+- [🍃 Dobšín Web Concept](https://github.com/ttoomas/dobsin-web-concept)
+- [🚢 BattleShip Game](https://github.com/ttoomas/battleship-game)
+- [🧙 Brumbálov Game](https://github.com/ttoomas/brumbalov-game)
+- [⚔️ Whac-A-Mole Viking Edition](https://github.com/ttoomas/whac-a-mole-vikings)
+- [🍪 Cookie Clicker Clone](https://github.com/ttoomas/cookie-clicker-clone)
+- [🎨 Guess the color game](https://github.com/ttoomas/guess-the-color-game)
+- [✅ Resources in one link](https://github.com/ttoomas/resources-in-one-link)
 
 
 ## Learning 👀
-- 🐾 Java, Python
-- ✍️ SASS,
+- 💞 Svelte
+- 🐾 Python
+- ✍️ SASS
 - 📈 MongoDB, FireBase
+- 👀 Figma
 - 3D Web - [three.js](https://threejs.org/)
 
 ## Contact
 
 - [ttoomas#9886](https://github.com/ttoomas) on Discord
 - [folprecht.to@gmail.com](mailto:folprecht.to@gmail.com) by Email
-- [Twitter](https://twitter.com/ttoomas_)
