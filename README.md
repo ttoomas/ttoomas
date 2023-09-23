@@ -2,8 +2,8 @@
 
 ## Hi👋
 
-I'm tomas, a student at [😎](https://www.spsmb.cz/)
-- I’m currently working on [Dobšín Web Concept](https://github.com/ttoomas/dobsin-web-concept)
+I'm tomas, a student at [😎 SPSMB](https://www.spsmb.cz/)
+- I’m currently working on [![Logo](https://avatars.githubusercontent.com/u/144601866?s=50&v=4) Adminixie](https://github.com/adminixie)
 
 ## Skills 💪
 - 👁️ HTML, CSS
