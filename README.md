@@ -23,9 +23,9 @@ I'm tomas, a student at [😎 SPSMB](https://www.spsmb.cz/)
 
 
 ## Learning 👀
-- 💞 Svelte
+- 💞 Svelte, Typescript
 - 🐾 Python
-- ✍️ SASS
+- ✍️ SCSS
 - 📈 MongoDB, FireBase
 - 👀 Figma
 - 3D Web - [three.js](https://threejs.org/)
