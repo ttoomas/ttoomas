@@ -1,5 +1,3 @@
-![img](https://raw.githubusercontent.com/ttoomas/ttoomas/main/stackoverflow.jpg)
-
 ## Hi👋
 
 I'm tomas, a student at [😎 SPSMB](https://www.spsmb.cz/)
@@ -34,3 +32,5 @@ I'm tomas, a student at [😎 SPSMB](https://www.spsmb.cz/)
 
 - [ttoomas#9886](https://github.com/ttoomas) on Discord
 - [folprecht.to@gmail.com](mailto:folprecht.to@gmail.com) by Email
+
+![img](https://raw.githubusercontent.com/ttoomas/ttoomas/main/stackoverflow.jpg)
