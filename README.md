@@ -5,28 +5,30 @@ I'm tomas, a student at [😎 SPSMB](https://www.spsmb.cz/)
 
 ## Skills 💪
 - 👁️ HTML, CSS
-- ⚙️ JavaScript, React 
+- ⚙️ JavaScript, SvelteKit, React
 - 📉 NodeJs, PHP
-- 📈 MySQL
+- 📈 MongoDB, MySQL
 - 🧗‍♂️ Git
 
 ## My best Projects 👨‍💻
-- [🍃 Dobšín Web Concept](https://github.com/ttoomas/dobsin-web-concept)
+- [🍃 Dobšín Web Concept](https://dobsin-web-concept.vercel.app/)
 - [🚢 BattleShip Game](https://github.com/ttoomas/battleship-game)
 - [🧙 Brumbálov Game](https://github.com/ttoomas/brumbalov-game)
 - [⚔️ Whac-A-Mole Viking Edition](https://github.com/ttoomas/whac-a-mole-vikings)
 - [🍪 Cookie Clicker Clone](https://github.com/ttoomas/cookie-clicker-clone)
 - [🎨 Guess the color game](https://github.com/ttoomas/guess-the-color-game)
 - [✅ Resources in one link](https://github.com/ttoomas/resources-in-one-link)
+- [🚗 Hispano-Suiza Website](https://hispanosuizaandclassic.com/)
 
 
 ## Learning 👀
-- 💞 Svelte, Typescript
+- 💞 Typescript
 - 🐾 Python
 - ✍️ SCSS
-- 📈 MongoDB, FireBase
+- 📈 FireBase
 - 👀 Figma
-- 3D Web - [three.js](https://threejs.org/)
+- ⚙️ Bash, Github Actions, Linux Server
+- 🕳️ 3D Web - [three.js](https://threejs.org/)
 
 ## Contact
 
