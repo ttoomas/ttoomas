@@ -11,7 +11,7 @@ I'm tomas, a student at [😎 SPSMB](https://www.spsmb.cz/)
 - 🧗‍♂️ Git
 
 ## My best Projects 👨‍💻
-- [🍃 Dobšín Web Concept](https://dobsin-web-concept.vercel.app/)
+- [🍃 Dobšín Web Concept](https://dobsin.cz/)
 - [🚢 BattleShip Game](https://github.com/ttoomas/battleship-game)
 - [🧙 Brumbálov Game](https://github.com/ttoomas/brumbalov-game)
 - [⚔️ Whac-A-Mole Viking Edition](https://github.com/ttoomas/whac-a-mole-vikings)
