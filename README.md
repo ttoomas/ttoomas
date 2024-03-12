@@ -1,7 +1,7 @@
 ## Hi👋
 
 I'm tomas, a student at [😎 SPSMB](https://www.spsmb.cz/)
-- I’m currently working on [![Logo](https://avatars.githubusercontent.com/u/144601866?s=50&v=4) Adminixie](https://github.com/adminixie) and finishing [Dobšín web](https://dobsin-web-concept.vercel.app/)
+- I’m currently working on [![Logo](https://avatars.githubusercontent.com/u/144601866?s=50&v=4) Adminixie](https://github.com/adminixie) and finishing [Dobšín web](https://dobsin.cz/)
 
 ## Skills 💪
 - 👁️ HTML, CSS
